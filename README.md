@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @ShirsenduRyo, currently working at Fractal Analytics, with 3 yrs. of experience in the field.
-I am also pusuing Post Graduate Diploma in Applied Science from Indian Statistical Institute, Kolkata, October 2024 Batch.
+- 👋 Hi, I’m @ShirsenduRyo, currently working at Fractal Analytics, with 3.3 yrs. of experience in the field.
+I am also pusuing Post Graduate Diploma in Applied Science from Indian Statistical Institute, Kolkata, October 2024 Batch, Cohort 5.
 <!-- - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
  -->
